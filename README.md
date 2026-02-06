@@ -32,7 +32,7 @@ Implements data hiding techniques to securely embed information inside images or
 ### 🔹 Key Logger (Educational)
 A basic keylogging project created for educational and cybersecurity awareness purposes.  
 **Tech:** Python  
-🔗 https://github.com/sanjai-566/key-logger
+🔗 https://github.com/sanjai-566/keylogger-python
 
 ---
 
@@ -64,4 +64,4 @@ A simple music player with a clean UI built using front-end web technologies.
 ### 🔹 Weather Application
 A web application that displays real-time weather information using an external API.  
 **Tech:** HTML, CSS, JavaScript, API  
-🔗 https://github.com/sanjai-566/weather-application
+🔗 https://github.com/sanjai-566/weather-app
